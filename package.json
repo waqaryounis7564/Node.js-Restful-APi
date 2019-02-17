@@ -1,7 +1,6 @@
 {
   "name": "vidly-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --verbose ",
@@ -34,5 +33,6 @@
   "devDependencies": {
     "jest": "^24.1.0",
     "supertest": "^3.4.2"
-  }
+  },
+  "description": ""
 }
